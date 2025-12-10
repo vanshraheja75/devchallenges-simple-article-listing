@@ -107,6 +107,9 @@ img{
 
 
 @media (max-width: 600px) {
+    :root{
+        --large: 1.8rem;
+    }
     .features{
         gap: 45px;
         flex-direction: column;
